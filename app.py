@@ -24,7 +24,7 @@ def handle_get_user_messages(data):
 
 @app.route('/')
 def index():
-    return render_template('WebSocketClient.html')
+    return render_template('join_room.html')
 
 if __name__ == '__main__':
     socketio.run(app)
