@@ -28,4 +28,4 @@ Type a message into the box and hit "Send". The message will broadcast to all ch
 
 #
 
-View the Chat Application Project [GitHub Repository](https://github.com/JaycobHoffman1/module14-mini-project)
+View the Chat Application Project [GitHub Repository](https://github.com/JaycobHoffman1/module15-mini-project)
